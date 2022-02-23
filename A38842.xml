@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Exact account and solemn manner of assembling the Parliament of Scotland on the first day of their convention at Edinborough on Thursday the 28th of July, 1681 being a true and full relation of the ancient order and custome then performed in their passage to the Parliament-house before His Majesties High Commissioner, His Royal Highness, James Duke of York and Albany, &amp;c : as it was drawn up and presented to His Royal-Highness, and the Right Honourable the Lords of His Majesties Privy-Council in that kingdom, by Lyon king at arms : as also the proclamation preparatory thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38842</idno>
+            <idno type="STC">Wing E3559</idno>
+            <idno type="STC">ESTC R31461</idno>
+            <idno type="EEBO-CITATION">11995663</idno>
+            <idno type="OCLC">ocm 11995663</idno>
+            <idno type="VID">52102</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38842)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52102)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1009:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Exact account and solemn manner of assembling the Parliament of Scotland on the first day of their convention at Edinborough on Thursday the 28th of July, 1681 being a true and full relation of the ancient order and custome then performed in their passage to the Parliament-house before His Majesties High Commissioner, His Royal Highness, James Duke of York and Albany, &amp;c : as it was drawn up and presented to His Royal-Highness, and the Right Honourable the Lords of His Majesties Privy-Council in that kingdom, by Lyon king at arms : as also the proclamation preparatory thereunto.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randolph Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Parliament.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52102:1" rendition="simple:additions"/>
+            <p>THE EXACT ACCOUNT And ſolemn manner of Aſſembling THE PARLIAMENT OF SCOTLAND ON The firſt day of their Convention AT EDINBOROUGH On <hi>Thurſday</hi> the 28th of <hi>July,</hi> 1681.</p>
+            <p>BEING A true and full Relation, of the Ancient Order and Cuſtome then performed in their paſſage to the Parliament-Houſe, before his Majeſties High Commiſſioner, His Royal Highneſs, <hi>James</hi> Duke of <hi>York</hi> and <hi>Albany,</hi> &amp;c.</p>
+            <p>AS It was drawn up and preſented to his Royal-Highneſs, and the Right Honourable the Lords of his Majeſties Privy-Council in that Kingdom, By Lyon King at Arms.</p>
+            <p>As alſo the Proclamation Preparatory thereunto.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Rand<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lph Taylor.</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:52102:2"/>
+            <pb n="1" facs="tcp:52102:2"/>
+            <div type="part_proper">
+               <head>
+                  <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> the nineteenth day of <hi>July,</hi> 1681.</head>
+               <p>FOraſmuch as it hath pleaſed the Kings moſt excellent Majeſty, to call a Parliament of this Kingdom to meet at <hi>Edinburgh,</hi> upon <hi>Thurſday</hi> the twenty-eighth of <hi>July</hi> inſtant; His <hi>Royal High<g ref="char:EOLhyphen"/>neſs,</hi> His <hi>Majeſties</hi> High Commiſſioner, and Lords of Privy Council, do hereby Command and Require, the Lyon King at Arms, and his Brethren Heraulds, Macers, and Purſevants, to paſs to the Market-Croſs of <hi>Edinburgh,</hi> and there, by open Proclamation, to Warn all the Lords Spiritual and Temporal, Officers of State, Commiſſioners of Shires and Burroughs, to convene at <hi>Holyrud-Houſe,</hi> the ſaid twenty-eighth of <hi>July,</hi> by nine of the Clock in the forenoon; the Lords furniſhed with their Gowns, Robes, Horſes, and Footmantles; and the Commiſſioners of Shires and Burroughs, with their Horſes and Footmantles, to attend His <hi>Royal-Highneſs.</hi> His <hi>Majeſties</hi> High-Commiſſioner, on Horſeback, in his going to the Parliament Houſe, and in his return. And to the end, it may be known who are to be admitted as Commiſſioners for Shires and Burroughs, that all Perſons having Commiſſioners any Shire or Burgh, deliver in their Commiſſions to the Clerk of Re<g ref="char:EOLhyphen"/>giſter, upon the twenty-fifth inſtant, in the forenoon, in the Parliament Houſe, that accordingly they be admitted as Commiſſioners to this Par<g ref="char:EOLhyphen"/>liament.</p>
+               <closer>
+                  <signed>
+                     <hi>WIL. PATERSON,</hi> Cl. Sti. Concilij.</signed>
+               </closer>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>Printed by the Relict of</hi> Andrew Anderſon, <hi>Printreſs to his moſt Sa<g ref="char:EOLhyphen"/>cred Majeſty,</hi> Anno Dom. <hi>1681. And Reprinted at</hi> London.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="2" facs="tcp:52102:3"/>
+            <head>The Manner and Order of the Proceſſion, and other things preparatory thereto, accor<g ref="char:EOLhyphen"/>ding to Cuſtome, in Riding to the Parlia<g ref="char:EOLhyphen"/>ment H<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe at <hi>Edinburgh,</hi> in <hi>Scotland</hi> on <hi>Thurſday</hi> the 28th of <hi>July,</hi> 1681.</head>
+            <p n="1">1. THe Regi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter and Lyon King at Arms, meet and adjuſt the Rolls of Parliament, and each of them take an exact Duplicate thereof.</p>
+            <p n="2">2. His Majeſties Privy-Council ſome days before the Sitting of the Parliament, uſe to give Lyon King at Arms, ſuch Or<g ref="char:EOLhyphen"/>ders as are neceſſary to the orderly proceeding; eſpecially, to deter<g ref="char:EOLhyphen"/>mine who ſhall carrie the Honours, <hi>viz.</hi> The Crown, Scepter and Sword, and uſually the Marqueſs of <hi>Douglaſs</hi> carried the Crown, the eldeſt Earl the Scepter, and the next the Sword.</p>
+            <p n="3">3. The Citizens in Arms make a Lane from the Entry to the Par<g ref="char:EOLhyphen"/>liament Cloſs, to the nether Bow, and the Kings Foot-Guards make a Lane from the nether Bow, to the Pallace.</p>
+            <p n="4">4. It is always ordered, that there be no Shooting, under the high<g ref="char:EOLhyphen"/>eſt Pains and Penalties all that day, neither diſplaying of Enſigns, nor beating of Drums, during the whole Cavalcade.</p>
+            <p n="5">5. The Conſtable and Marſhall-Guards of Partizans muſt make the Lane from the Lady-Steps, the Conſtable without, and the Mar<g ref="char:EOLhyphen"/>ſhal within the Dore.</p>
+            <p n="6">6. There muſt be four conveniencies with eaſie Steps or Degrees, that the Members without difficulty may mount and diſmount, two above the Croſs, and two at the Abby.</p>
+            <p n="7">7. Every Member of Parliament muſt Ride on Horſeback, and the abſent Members fined, conform to the Act of Parliament made 1663.</p>
+            <p n="8">8. Where there be double Elections of Members, neither of them are to Ride, by Act of Council 1669.</p>
+            <p n="9">9. The Officers of State not being Noblemen, muſt Ride in their Gowns.</p>
+            <p n="10">10. The Nobility to Ride in their Robes and Foot-mantles, and the reſt with their Foot-mantles.</p>
+            <p n="11">11. The whole Members to Ride Covered, excepting thoſe that carry the Honours.</p>
+            <p n="12">12. Lyon King at Arms, the Heraulds, Purſevants and Trumpets to Ride immediately before the Honours, Lyon with his Coate and Robe, the reſt in their Coats and Foot-mantles barcheaded, con<g ref="char:EOLhyphen"/>form to an Act in 1606.</p>
+            <p n="13">13. The two Mace-Bearers of Council and the four Mace-Bearers of Seſſion to Ride on each ſide of the Honours Bare-headed.</p>
+            <p n="14">14. The higheſt of Degree, and the moſt honourable of that De<g ref="char:EOLhyphen"/>gree to Ride laſt.</p>
+            <pb n="3" facs="tcp:52102:3"/>
+            <p n="15">XV. Every Duke to have Eight Lackeys; every Marqueſs, Six; every Earl, Four; Every Viſcount, Three; every Lord, Three; every Commiſſioner for Shire, Two; every Commiſſi<g ref="char:EOLhyphen"/>oner for Burghs, One: Every Nobleman to have a Gentleman to hold up his Train, by Act of Council in 1669. And they may have their Pages alſo, though not mentioned in that Act.</p>
+            <p n="16">XVI. The two Archbiſhops are to have each of them Eight Lackeys; and every other Biſhop, Three. And, if they pleaſe, they may have a Gentleman to hold up their Trains.</p>
+            <p n="17">XVII. The Noblemens Lackeys to have over their Liveries ſhort Velvet Coats, with their Badges, Creſts, and Mottos done in Plate, or Embroidered, on the Back and Breaſt, as hath ever been the Cuſtom, and now to be obſerved, for the Decency and the Antiquity thereof.</p>
+            <p n="18">XVIII. The High-Conſtable and the Mareſchal going to the Abby in the Morning, to receive the High Commiſſioners Com<g ref="char:EOLhyphen"/>mands, and returning privately, the Conſtable comes out of his Lodging on Foot, and having viewed the Rooms, under and above, of the Parliament-Houſe, puts on his Robes, and being attended with his Friends, and having his Battoon in his Hand, ſeats himſelf in a Chair at the Entry of the Parliament, cloſe under the <hi>Lady-Steps,</hi> by the outmoſt of the Guards; from which he riſes, and ſalutes the Commiſſioners as they alight from their Horſes, and recommends them to the Gentlemen of his Guards, to be conducted to the Mareſchal's Guards.</p>
+            <p n="19">XIX. The Mareſchal alſo attends in his Robes, being ſet in a Chair at the Head of his Guards, and receives the Members (having his Battoon in his Hand) as they enter the Door.</p>
+            <p n="20">XX. The Great Officers of State, ſo many of them as are within the Kingdom, ride up from the Abby, about half an hour before the Cavalcade, in their Robes, attended with their Friends on Horſeback, and wait within the Houſe; and when the Com<g ref="char:EOLhyphen"/>miſſioner enters the Houſe, the Chancellor takes his own Purſe, and Uſhers him from the Bar to the Throne, except when the King is preſent, or that now His Royal Highneſs being Com<g ref="char:EOLhyphen"/>miſſioner, the Chancellor receives him at the Door, and Uſhers him up to the Throne.</p>
+            <p n="21">XXI. The whole Members of Parliament wait on the High Commiſſioner in the Guard-Hall, the Noblemen in their Robes; and their Servants and Horſes attend in the outward Cloſe.</p>
+            <pb n="4" facs="tcp:52102:4"/>
+            <p n="22">XXII. The <hi>Lyon</hi> King at Arms, in his Coat and Robes, and Battoon in his Hand, to whoſe Charge the Order of the Proceſ<g ref="char:EOLhyphen"/>ſion is committed, with the Six Heralds, Six Purſuivants, and Six Trumpets, in their Coats, attend there likewiſe.</p>
+            <p n="23">XXIII. So ſoon as the High Commiſſioner is ready, the Regi<g ref="char:EOLhyphen"/>ſter and <hi>Lyon</hi> ſtanding together, each of them having a Roll in his Hand, and the Roll being read, the <hi>Lyon</hi> calls the Names of ſuch as are to ride, according to their Order, and a Herald crieth aloud at one of the Windows, and one other Herald ſtands at the Gate to ſee them do accordingly.</p>
+            <p n="24">XXIV. The Members ought to ride as they are called; and if they think themſelves prejudiced, they muſt proteſt in ſuch manner, as at the calling of the Rolls in the Houſe it ſelf.</p>
+            <p n="25">XXV. The Dukes and Marqueſſes to make the Train, and ride after the Commiſſioner, by the Act of 1606.</p>
+            <p n="26">XXVI. When the King is preſent, the Maſter of the Horſe rides eaſie, but a little aſide, by the ſame Act in 1606.</p>
+            <p>The whole Aſſembly being in the manner aforementioned met at the Abby, to convey his Royal Highneſs thence to the Parliament-Houſe, the Proceſſion begins in Order as followeth.</p>
+            <list>
+               <item>1 The Lord Chancellor and Lord Privy Seal, with all their Friends and Followers, being come up on Horſeback; the Chancellor on the Right Hand, with the Purſe and Mace born before him; and the Privy-Seal on the Left.</item>
+               <item>2
+<list>
+                     <item>Two Trumpets, in their Coats, Bare-headed, Uſher the Way.</item>
+                     <item>Two Purſuivants, in their Coats, Bare-headed, Uſher the Way.</item>
+                  </list>
+               </item>
+               <item>3 The Commiſſioners from Burghs, Two and Two.</item>
+               <item>4 The Commiſſioners from Shires, Two and Two.</item>
+               <item>5 The Officers of State, not Noblemen, Two and Two.</item>
+               <item>6 The Lords and Barons of Parliament, Two and Two.</item>
+               <item>7 The Biſhops, Two and Two.</item>
+               <item>8 The Viſcounts, Two and Two.</item>
+               <pb n="5" facs="tcp:52102:4"/>
+               <item>9 The Earls, Two and Two.</item>
+               <item>10 The Two Archbiſhops.</item>
+               <item>11 Four Trumpets, in their Coats, Bare-headed, Two and Two.</item>
+               <item>12 Four Purſuivants, in their Coats, Bare-headed, Two and Two.</item>
+               <item>13 Six Heralds, in their Coats, Bare-headed, Two and Two.</item>
+               <item>14 The Uſher, Bare-headed.</item>
+               <item>15 <hi>Lyon</hi> King at Arms, with his Coat, and Robes, and Foot<g ref="char:EOLhyphen"/>mantle, and his Battoon in his Hand, Bare-headed.</item>
+               <item>16 The Sword of State.</item>
+               <item>17 The Scepter.</item>
+               <item>18 The Crown.</item>
+               <item>19 On each ſide the Honours, Three Mace-bearers, Bare-headed.</item>
+               <item>20 A Noble-man, Bare-headed, with a Purſe, and in it His Royal Highneſſes Commiſſion.</item>
+               <item>21 His Royal Highneſs, High Commiſſioner, attended with His Pages and Lackeys. The Duke of <hi>Hamilton</hi> with the Marqueſs of <hi>Huntley</hi> on His Right Hand, and the Marqueſs of <hi>Montroſs</hi> on his Left.</item>
+               <item>22 The Captain of His Majeſty's Guard, at the Head of his Troop.</item>
+            </list>
+            <p>And they return in the ſame Order back to the Palace; only the Conſtable and Mareſchal ride on the Commiſſioners Right and Left Hand, with Caps of Permiſſion; and that the Chancel<g ref="char:EOLhyphen"/>lor and Privy-Seal ſtay behind until all march away, and then return a little behind.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
